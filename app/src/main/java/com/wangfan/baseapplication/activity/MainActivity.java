@@ -1,8 +1,10 @@
-package com.wangfan.baseapplication;
+package com.wangfan.baseapplication.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.wangfan.baseapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
